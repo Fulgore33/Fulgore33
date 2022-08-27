@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fulgore33
 - 👀 Estoy interesado en la creacion de paginas web
-- 🌱 Estoy estudiando react
+- 🌱 Estoy estudiando PHP
 
 
 <!---
